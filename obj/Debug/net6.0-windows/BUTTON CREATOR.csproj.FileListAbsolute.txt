@@ -1,0 +1,21 @@
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 2021\WPF 2021\BUTTON CREATOR\bin\Debug\net6.0-windows\BUTTON CREATOR.exe
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 2021\WPF 2021\BUTTON CREATOR\bin\Debug\net6.0-windows\BUTTON CREATOR.deps.json
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 2021\WPF 2021\BUTTON CREATOR\bin\Debug\net6.0-windows\BUTTON CREATOR.runtimeconfig.json
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 2021\WPF 2021\BUTTON CREATOR\bin\Debug\net6.0-windows\BUTTON CREATOR.dll
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 2021\WPF 2021\BUTTON CREATOR\bin\Debug\net6.0-windows\ref\BUTTON CREATOR.dll
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 2021\WPF 2021\BUTTON CREATOR\bin\Debug\net6.0-windows\BUTTON CREATOR.pdb
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 2021\WPF 2021\BUTTON CREATOR\obj\Debug\net6.0-windows\BUTTON CREATOR.csproj.AssemblyReference.cache
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 2021\WPF 2021\BUTTON CREATOR\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 2021\WPF 2021\BUTTON CREATOR\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 2021\WPF 2021\BUTTON CREATOR\obj\Debug\net6.0-windows\BUTTON CREATOR_MarkupCompile.cache
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 2021\WPF 2021\BUTTON CREATOR\obj\Debug\net6.0-windows\BUTTON CREATOR_MarkupCompile.lref
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 2021\WPF 2021\BUTTON CREATOR\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 2021\WPF 2021\BUTTON CREATOR\obj\Debug\net6.0-windows\BUTTON CREATOR.g.resources
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 2021\WPF 2021\BUTTON CREATOR\obj\Debug\net6.0-windows\BUTTON CREATOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 2021\WPF 2021\BUTTON CREATOR\obj\Debug\net6.0-windows\BUTTON CREATOR.AssemblyInfoInputs.cache
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 2021\WPF 2021\BUTTON CREATOR\obj\Debug\net6.0-windows\BUTTON CREATOR.AssemblyInfo.cs
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 2021\WPF 2021\BUTTON CREATOR\obj\Debug\net6.0-windows\BUTTON CREATOR.csproj.CoreCompileInputs.cache
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 2021\WPF 2021\BUTTON CREATOR\obj\Debug\net6.0-windows\BUTTON CREATOR.dll
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 2021\WPF 2021\BUTTON CREATOR\obj\Debug\net6.0-windows\ref\BUTTON CREATOR.dll
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 2021\WPF 2021\BUTTON CREATOR\obj\Debug\net6.0-windows\BUTTON CREATOR.pdb
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 2021\WPF 2021\BUTTON CREATOR\obj\Debug\net6.0-windows\BUTTON CREATOR.genruntimeconfig.cache
